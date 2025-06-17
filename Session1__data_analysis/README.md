@@ -1,4 +1,4 @@
-# 📘 Empowering Insight: Data Analysis & Machine Learning with Python  
+# Empowering Insight: Data Analysis & Machine Learning with Python  
 ### Week 1 – Explore and Analyze Data with Python
 
 ---
@@ -11,14 +11,14 @@ In today’s world, data is everywhere. This workshop is your **first real step 
 
 ---
 
-## 🧭 Workshop Overview
+## Workshop Overview
 
 This 5-week workshop is designed to give you:
 - Practical skills in Python-based data analysis and machine learning
 - Confidence to work with real-world datasets
 - Support for projects, internships, or jobs that involve data
 
-### 🗓️ Weekly Breakdown
+### Weekly Breakdown
 
 | Week | Topic |
 |------|-------|
@@ -30,22 +30,22 @@ This 5-week workshop is designed to give you:
 
 ---
 
-## 🛤️ Why This Workshop Matters
+## Why This Workshop Matters
 
 This workshop is part of the **Collaborative Data Science Project (CDSP)** — your opportunity to:
 - Collect or use real datasets
 - Select the **machine learning model that fits your problem**
 - Build skills that are **directly applicable** to your career or ELO path
 
-> 🎯 If you don’t want to apply ML, no problem — you’ll still learn to **explore, clean, and visualize data**, which is essential in every data science workflow.
+> If you don’t want to apply ML, no problem — you’ll still learn to **explore, clean, and visualize data**, which is essential in every data science workflow.
 
 Whether you’re on the **Invidia path**, an **internship path**, or aiming to **start working soon**, this is your golden chance to build skills and a portfolio.
 
 ---
 
-## 📚 About This Session (Week 1)
+## About This Session (Week 1)
 
-### 🚀 Session Goal:
+### Session Goal:
 Learn how to **explore and analyze data** using Python:
 
 - Load and inspect real-world datasets
@@ -54,11 +54,10 @@ Learn how to **explore and analyze data** using Python:
 - Visualize key relationships in your data
 
 We’ll follow the official Microsoft Learn module:  
-🔗 [Explore and Analyze Data with Python](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/)
 
 ---
 
-## 🧰 Tools We'll Use Today
+##  Tools We'll Use Today
 
 - Python 3
 - Google Colab
@@ -69,7 +68,7 @@ You’ll write real code and work alongside the instructor live in Google Colab.
 
 ---
 
-## 💡 What Makes This Workshop Different
+## What Makes This Workshop Different
 
 - ❌ No exams  
 - ❌ No graded homework  
@@ -83,7 +82,7 @@ The more you practice, the more you’ll grow.
 
 ---
 
-## 🙌 Looking Ahead
+## Looking Ahead
 
 By the end of this workshop, you will have:
 - Explored and cleaned real data
