@@ -54,6 +54,8 @@ You’ll see NumPy in action behind the scenes all throughout this workshop — 
 
 Click below to open this week’s code notebook and follow along with examples and exercises:
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11eJW7bM8xa5_QXclTgEcvZM1IJ5oc_Se#scrollTo=LIHBhOXa0rIu)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iwFk0PSRG0AcJfg8i-R8gJrKH6GG4cp5)
 
 
