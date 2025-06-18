@@ -29,16 +29,6 @@ Think of NumPy arrays like **Excel sheets without column headers** — they’re
 
 ---
 
-## What You’ll Learn in the Colab Notebook
-
-In the coding part of this week, you'll:
-- Create arrays with `np.array()`
-- Compare NumPy arrays to regular Python lists
-- Perform basic math operations (mean, std, max, min)
-- Practice with a mini challenge to explore and analyze your own array
-  
----
-
 ## Summary
 
 NumPy is:
@@ -47,6 +37,16 @@ NumPy is:
 - A great way to practice writing clean, efficient Python code
 
 You’ll see NumPy in action behind the scenes all throughout this workshop — starting today.
+
+---
+
+## What You’ll Learn in the Colab Notebook
+
+In the coding part of this week, you'll:
+- Create arrays with `np.array()`
+- Compare NumPy arrays to regular Python lists
+- Perform basic math operations (mean, std, max, min)
+- Practice with a mini challenge to explore and analyze your own array
 
 ---
 
