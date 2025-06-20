@@ -7,7 +7,7 @@ In this challenge, you'll explore a real-world dataset containing flights data f
 ```python
 import pandas as pd
 
-df_flights = pd.read_csv('data/flights.csv')
+df_flights = pd.read_csv('ET6-ML/Session1__data_analysis/flights.csv')
 df_flights.head()
 ```
 
@@ -63,6 +63,4 @@ Explore the flight data to analyze possible factors that affect delays in depart
 
 ---
 
-> Add markdown and code cells as required to create your solution.
-
-**Note:** There is no single "correct" solution. A sample solution is provided in `01 - Flights Challenge.ipynb`.
+**Note:** There is no single "correct" solution. A sample solution is provided in [![Flights Solution](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mksCKWja-L5PvB2BxRJ4EEteNfXSbMxX#scrollTo=hiGdLJ8dc08v)
