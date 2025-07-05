@@ -94,3 +94,10 @@ By the end of this workshop, you will have:
 This is your chance to try, experiment, fail, learn — and grow.
 
 ---
+### 📘 Flights Challenge Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuri-spizhovyi-mit/ET6-ML/blob/main/Session1__data_analysis/notebooks/Flights_Challenge_Solution.ipynb)
+
+### 📘 Data Visualization HW1 Assignment Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yuri-spizhovyi-mit/ET6-ML/blob/main/Session1__data_analysis/notebooks/DataVisualization_HW1_Assignment.ipynb)
