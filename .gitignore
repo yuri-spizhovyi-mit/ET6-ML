@@ -41,7 +41,6 @@ Thumbs.db
 .DS_Store
 
 # Other large or auto-generated
-*.csv
 *.zip
 *.tar
 *.gz
