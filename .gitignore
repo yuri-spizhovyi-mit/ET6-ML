@@ -50,5 +50,3 @@ Thumbs.db
 *.sqlite
 *.sqlite3
 
-# Local notebooks data
-Data/

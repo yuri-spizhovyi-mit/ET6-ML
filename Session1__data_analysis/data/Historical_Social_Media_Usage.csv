@@ -1,0 +1,70 @@
+Platform,Month,Year,"Yes, use this","No, don’t use this",Don’t know,No answer
+Facebook,May-Sep,2023,71,27,*,1
+YouTube,May-Sep,2023,87,12,*,1
+Twitter (X),May-Sep,2023,23,74,*,3
+Instagram,May-Sep,2023,49,49,*,2
+Snapchat,May-Sep,2023,28,69,*,3
+WhatsApp,May-Sep,2023,31,67,*,2
+LinkedIn,May-Sep,2023,31,66,*,3
+Pinterest,May-Sep,2023,36,61,*,2
+TikTok,May-Sep,2023,34,63,*,2
+BeReal,May-Sep,2023,4,93,*,3
+Reddit,May-Sep,2023,23,74,*,3
+Facebook,Jan,2021,73,27,*,*
+Facebook,Feb,2019,75,25,0,0
+Facebook,Jan,2018,76,24,*,*
+Facebook,Apr,2016,79,21,0,0
+Facebook,Apr,2015,72,28,0,0
+Facebook,Sep,2014,71,28,0,0
+Facebook,Sep,2013,71,29,*,0
+Facebook,Dec,2012,67,33,*,0
+Facebook,Aug,2012,66,34,1,0
+YouTube,Jan,2021,86,14,0,*
+YouTube,Feb,2019,79,20,*,0
+YouTube,Jan,2018,81,18,*,*
+Twitter (X),Jan,2021,25,75,*,*
+Twitter (X),Feb,2019,24,76,0,0
+Twitter (X),Jan,2018,27,73,*,*
+Twitter (X),Apr,2016,24,75,0,*
+Twitter (X),Apr,2015,23,77,0,0
+Twitter (X),Sep,2014,23,77,*,0
+Twitter (X),Sep,2013,18,82,*,0
+Twitter (X),May,2013,18,82,*,*
+Twitter (X),Dec,2012,16,84,*,*
+Instagram,Aug,2012,16,84,*,0
+Instagram,Jan,2021,43,57,*,*
+Instagram,Feb,2019,41,59,0,0
+Instagram,Jan,2018,39,61,*,*
+Instagram,Apr,2016,32,67,*,*
+Instagram,Apr,2015,27,72,*,0
+Instagram,Sep,2014,26,74,0,0
+Instagram,Sep,2013,17,82,*,*
+Snapchat,Dec,2012,13,87,*,0
+Snapchat,Aug,2012,12,88,1,0
+Snapchat,Jan,2021,27,73,0,*
+WhatsApp,Feb,2019,26,74,*,0
+WhatsApp,Jan,2018,30,70,*,*
+WhatsApp,Jan,2021,24,75,*,*
+LinkedIn,Feb,2019,21,78,1,0
+LinkedIn,Jan,2018,24,75,*,*
+LinkedIn,Jan,2021,30,69,1,*
+LinkedIn,Feb,2019,29,71,*,0
+LinkedIn,Jan,2018,28,71,1,*
+LinkedIn,Apr,2016,29,70,1,0
+LinkedIn,Apr,2015,26,73,1,0
+LinkedIn,Sep,2014,28,72,*,0
+LinkedIn,Sep,2013,22,77,1,*
+Pinterest,Aug,2012,20,79,1,*
+Pinterest,Aug,2012,20,79,1,*
+Pinterest,Jan,2021,33,67,*,*
+Pinterest,Feb,2019,31,68,*,*
+Pinterest,Jan,2018,32,67,*,*
+Pinterest,Apr,2016,31,69,*,0
+Pinterest,Apr,2015,31,68,1,*
+Pinterest,Sep,2014,28,72,*,0
+Pinterest,Sept,2013,21,77,2,*
+TikTok,Dec,2012,15,83,2,0
+Reddit,Aug,2012,12,87,1,*
+Reddit,Jan,2021,23,77,0,*
+TikTok,Jan,2021,19,81,*,*
+Reddit,Feb,2019,12,87,1,0
