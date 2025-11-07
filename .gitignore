@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nbconvert/
+.DS_Store
+
+# Environment and virtualenvs
+.env
+.venv/
+env/
+venv/
+.conda/
+anaconda3/
+*/anaconda/
+*/env/
+*/venv/
+*/.env/
+
+# IDE and editor configs
+.vscode/
+.idea/
+*.iml
+
+# Logs and debug
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Other large or auto-generated
+*.csv
+*.zip
+*.tar
+*.gz
+*.h5
+*.pkl
+*.db
+*.sqlite
+*.sqlite3
+
+# Local notebooks data
+Data/
